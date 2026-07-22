@@ -1,4 +1,4 @@
-<img width="1359" height="396" alt="image" src="https://github.com/user-attachments/assets/4bab9fae-7b48-4397-9194-2a1cbe8a0359" /><H3> Name  Vasanth P </H3>
+<H3> Name  Vasanth P </H3>
 <H3>Register No. 212224230295</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
